@@ -1,11 +1,18 @@
 package cuentas;
 
 /**
- *
+ * 
  * @author Jano
+ * @version 0.2
+ * @see CCuenta
+ * @since 26-02-2024
  */
 public class Main {
 
+    /**
+     * Main del programa
+     * @param args
+     */
     public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
